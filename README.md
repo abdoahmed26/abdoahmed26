@@ -34,32 +34,32 @@
     
 - **Front-End Development**:
  <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="html5" width="50" height="50"/>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="css3" width="50" height="50"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="50" height="50"/>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss" width="50" height="50"/>
 </p>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="50" height="50"/>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="50" height="50"/>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react.js" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="react.js" width="50" height="50"/>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="50" height="50"/>
 </p>
   <p>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="next.js" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=next" alt="next.js" width="50" height="50"/>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="50" height="50"/>
   
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="50" height="50"/>
   </p>
   
 <!--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> -->
