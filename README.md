@@ -1,7 +1,7 @@
 ## Welcome , I'm [Abdulrahman Ahmed](https://github.com/abdoahmed26) <img src="https://media.giphy.com/media/E6EnvXLzCwnhV58V9l/giphy.gif" width="30">
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+I'm+Abdulrahman+Ahmed..&hearts;++;Computer+Science+Student,;Self-taught+Front-End+Developer,;Currently+learning+Web+Development+by+Self">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+I'm+Abdulrahman+Ahmed..&hearts;++;Computer+Science+Student,;Self-taught+Full-Stack+Developer,;Currently+learning+Web+Development+by+Self">
 
 <picture> <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" ></picture>
 
@@ -11,7 +11,7 @@
 
 - My Personal website [link](https://abdoahmed26.github.io/profile/) ! 
 - Currently learning Web Development by Self
-- A passionate Self-taught Front-end developer
+- A passionate Self-taught Full-Stack developer
 - A Software Engineer student in the Faculty of Computers and Artificial Intelligence, Beni-Seuf University
 
 
@@ -42,20 +42,26 @@
   
   <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="50" height="50"/>
+  
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=react" alt="react.js" width="50" height="50"/>
-  
+  <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="react.js" width="50" height="50"/> 
   <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=next" alt="next.js" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="50" height="50"/>
-</p>
   
+</p>
+  <br/>
 <!--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> -->
-
+- **Back-End Development**:
+  <p>
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="50" height="50"/>
+      <img src="https://skillicons.dev/icons?i=expressjs" alt="expressjs" width="50" height="50"/>
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="50" height="50"/>
+      <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/>
+      <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="50" height="50"/>
+  </p>
 
 <br>
 
