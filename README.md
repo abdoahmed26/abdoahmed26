@@ -52,15 +52,17 @@
   <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="50" height="50"/>
   
 </p>
-  <br/>
-<!--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> -->
-- **Back-End Development**:
+
+<br/>
+
+- **Back-End Developer**:
+
   <p>
       <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="50" height="50"/>
       <img src="https://skillicons.dev/icons?i=expressjs" alt="expressjs" width="50" height="50"/>
       <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="50" height="50"/>
-      <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/>
       <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="50" height="50"/>
+      <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/>
   </p>
 
 <br>
