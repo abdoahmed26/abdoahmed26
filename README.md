@@ -93,9 +93,12 @@
 <img src="https://media.giphy.com/media/Z022x1nbAsKE2aAhnE/giphy.gif" width="100%" height ="120">
 
 <details align="center">
-  <summary>
-    <h3 align="center" >Connect with me  <img src="https://media.giphy.com/media/cOLvtXLNWPnD8jrtS3/giphy.gif" width="55" height="55" style="margin-bottom: -15px;">      </h3>
-</summary>
+      <summary>
+        <h3 align="center" style="display:flex; justify-content:center; align-items: center;">
+            Connect with me  
+            <img src="https://media.giphy.com/media/cOLvtXLNWPnD8jrtS3/giphy.gif" width="55" height="55" style="margin-bottom: -15px;">
+        </h3>
+    </summary>
 <div>
   <samp>
     <p align="center">
