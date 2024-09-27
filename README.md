@@ -41,13 +41,13 @@
       <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss" width="50" height="50"/>
       <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="50" height="50"/>
  </p>
- <p>
+  <p>
       <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="50" height="50"/>
       <img src="https://skillicons.dev/icons?i=react" alt="react.js" width="50" height="50"/> 
       <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="50" height="50"/>
       <img src="https://skillicons.dev/icons?i=next" alt="next.js" width="50" height="50"/>
       <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="50" height="50"/>
- </p>
+  </p>
 
 <br/>
 
