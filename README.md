@@ -46,7 +46,11 @@
           <img src="https://skillicons.dev/icons?i=react" alt="react.js" width="50" height="50"/> 
           <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="50" height="50"/>
           <img src="https://skillicons.dev/icons?i=next" alt="next.js" width="50" height="50"/>
+          <img src="https://skillicons.dev/icons?i=prisma" alt="Material UI" width="50" height="50"/>
+     </p>
+     <p>
           <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="50" height="50"/>
+          <img src="https://skillicons.dev/icons?i=vite" alt="Material UI" width="50" height="50"/>
      </p>
  </p>
 
