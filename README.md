@@ -79,7 +79,7 @@
   <br>
     ![Render](https://img.shields.io/badge/render-%23121011.svg?style=for-the-badge&logo=render&logoColor=white)
     ![Koyeb](https://img.shields.io/badge/koyeb-%23121011.svg?style=for-the-badge&logo=koyeb&logoColor=white)
-    
+    ![GitLab](https://img.shields.io/badge/gitlab-white.svg?style=for-the-badge&logo=gitlab&logoColor=orange)
 <br>
 
 - **Softwares and Tools**:
