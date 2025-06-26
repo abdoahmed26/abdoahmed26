@@ -112,13 +112,13 @@
   <samp>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/abdo-ahmed-67185a28a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+      <a href="https://linkedin.com/in/abdelrahman-ahmed-460873357" target="_blank">
         <img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30"/>
       </a>
       <a href="https://www.facebook.com/abdoahmed26?mibextid=ZbWKwL" target="_blank">
         <img align="center" src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" height="30"/>
       </a>
-      <a href="mailto:ba2662003@gmail.com" target="_blank">
+      <a href="mailto:abdulrahman.ahmed2623@gmail.com" target="_blank">
         <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="30"/>
       </a>
       <a href="https://wa.me/+01207583096" target="_blank">
