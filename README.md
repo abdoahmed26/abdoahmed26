@@ -1,7 +1,7 @@
 ## Welcome , I'm [Abdulrahman Ahmed](https://github.com/abdoahmed26) <img src="https://media.giphy.com/media/E6EnvXLzCwnhV58V9l/giphy.gif" width="30">
 
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+I'm+Abdulrahman+Ahmed..&hearts;++;Computer+Science+Student,;Self-taught+Full-Stack+Developer,;Currently+learning+Web+Development+by+Self">
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+I'm+Abdulrahman+Ahmed..&hearts;++;Computer+Science+Graduate,;Self-taught+Full-Stack+Developer,;Currently+learning+Web+Development+by+Self">
 
 <picture> <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" ></picture>
 
@@ -12,7 +12,7 @@
 - My Personal website [link](https://abdoahmed26.github.io/profile/) ! 
 - Currently learning Web Development by Self
 - A passionate Self-taught Full-Stack developer
-- A Software Engineer student in the Faculty of Computers and Artificial Intelligence, Beni-Seuf University
+- A Software Engineer graduate in the Faculty of Computers and Artificial Intelligence, Beni-Seuf University, Egypt
 
 
 <br><br>
