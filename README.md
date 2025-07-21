@@ -105,9 +105,9 @@
       <summary>
         <h3 align="center" style="display:flex;justify-content:center;align-items:center;">
             Connect with me  
-            <p>
+            <span>
                 <img src="https://media.giphy.com/media/cOLvtXLNWPnD8jrtS3/giphy.gif" width="55" height="55" />
-            </p>
+            </span>
         </h3>
     </summary>
 <div>
