@@ -46,11 +46,10 @@
           <img src="https://skillicons.dev/icons?i=react" alt="react.js" width="50" height="50"/> 
           <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="50" height="50"/>
           <img src="https://skillicons.dev/icons?i=next" alt="next.js" width="50" height="50"/>
-          <img src="https://skillicons.dev/icons?i=prisma" alt="Material UI" width="50" height="50"/>
+          <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="50" height="50"/>
      </p>
      <p>
-          <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="50" height="50"/>
-          <img src="https://skillicons.dev/icons?i=vite" alt="Material UI" width="50" height="50"/>
+          <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="50" height="50"/>
      </p>
  </p>
 
@@ -61,16 +60,16 @@
   <p>
       <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="50" height="50"/>
       <img src="https://skillicons.dev/icons?i=expressjs" alt="expressjs" width="50" height="50"/>
+      <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="50" height="50"/>
+      <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="50" height="50"/>  
+      <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="50" height="50"/>
+  </p>
+  <p>
       <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="50" height="50"/>
       <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="50" height="50"/>
       <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="50" height="50"/>
-  </p>
-  <p>
       <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="50" height="50"/>
       <img src="https://skillicons.dev/icons?i=sequelize" alt="sequelize" width="50" height="50"/>
-      <img src="https://skillicons.dev/icons?i=docker" alt="postman" width="50" height="50"/>
-      <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="50" height="50"/>
-      <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50"/>    
   </p>
 
 <br>
@@ -90,10 +89,10 @@
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![Postman](https://img.shields.io/badge/postman-%234285F4.svg?style=for-the-badge&logo=postman&logoColor=orange)
   <br>
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+    ![Cursor](https://img.shields.io/badge/cursor-%234285F4.svg?style=for-the-badge&logo=cursor&logoColor=black) 
   
 
 <br>
