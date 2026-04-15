@@ -34,7 +34,7 @@
     
 - **Front-End Development**:
   <div>
-      <p align="center">
+      <p>
           <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,next,materialui,vite" />
     </p>
  </div>
@@ -44,18 +44,7 @@
 - **Back-End Developer**:
 
   <p>
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="50" height="50"/>
-      <img src="https://skillicons.dev/icons?i=expressjs" alt="expressjs" width="50" height="50"/>
-      <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="50" height="50"/>
-      <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="50" height="50"/>  
-      <img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="50" height="50"/>
-  </p>
-  <p>
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="50" height="50"/>
-      <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="50" height="50"/>
-      <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="50" height="50"/>
-      <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="50" height="50"/>
-      <img src="https://skillicons.dev/icons?i=sequelize" alt="sequelize" width="50" height="50"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,docker,prisma,mongodb,postgresql,mysql,redis,sequelize" alt="nodejs" width="50" height="50"/>
   </p>
 
 <br>
