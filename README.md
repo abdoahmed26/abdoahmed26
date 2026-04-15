@@ -35,7 +35,13 @@
 - **Front-End Development**:
   <div>
       <p>
-          <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,next,materialui,vite" />
+          <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js" />
+    </p>
+    <p>
+          <img src="https://skillicons.dev/icons?i=ts,react,redux,next,materialui" />
+    </p>
+    <p>
+          <img src="https://skillicons.dev/icons?i=vite" />
     </p>
  </div>
 
