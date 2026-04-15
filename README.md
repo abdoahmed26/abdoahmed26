@@ -50,7 +50,10 @@
 - **Back-End Developer**:
 
   <p>
-      <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,docker,prisma,mongodb,postgresql,mysql,redis,sequelize"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,docker,prisma"/>
+  </p>
+  <p>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sequelize"/>
   </p>
 
 <br>
