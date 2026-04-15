@@ -33,6 +33,7 @@
 <p align="center">
     
 - **Front-End Development**:
+  
   <div>
       <p>
           <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js" />
