@@ -33,14 +33,14 @@
 <p align="center">
     
 - **Front-End Development**:
-  <p>
-      <p style="display:flex;justify-content:center;align-items:center;">
+  <div>
+      <div style="display:flex;justify-content:center;align-items:center;">
           <img src="https://skillicons.dev/icons?i=html" alt="html5" width="50" height="50"/>
           <img src="https://skillicons.dev/icons?i=css" alt="css3" width="50" height="50"/>
           <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="50" height="50"/>
           <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindcss" width="50" height="50"/>
           <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="50" height="50"/>
-     </p>
+     </div>
      <p style="display:flex;justify-content:center;align-items:center;">
           <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="50" height="50"/>
           <img src="https://skillicons.dev/icons?i=react" alt="react.js" width="50" height="50"/> 
@@ -51,7 +51,7 @@
      <p>
           <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="50" height="50"/>
      </p>
- </p>
+ </div>
 
 <br/>
 
